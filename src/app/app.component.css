@@ -1,0 +1,23 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(19, 9, 37, 0.842);
+    display: block;
+    padding: 2rem;
+}
+
+.navbar-nav { 
+    flex-direction: row;
+}
+
+.navbar {
+    background-color: rgba(19, 9, 37, 0.082);
+    box-shadow: 50px;
+}
+
+.navbar-logo {
+    height: 10%;
+    width: 10%;
+    margin: 20px;
+}
+
+
+
